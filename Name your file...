@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dhaneen Javad - Writer & Translator</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1e1e2f;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      margin: 0.5em 0;
+    }
+    .bio {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .project {
+      margin-top: 2rem;
+    }
+    .project-title {
+      font-weight: bold;
+      color: #1e1e2f;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #eee;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dhaneen Javad</h1>
+    <h2>Writer, Translator, Scriptwriter</h2>
+  </header>
+  <section>
+    <p class="bio">
+      Hi! I’m a dedicated and detail-oriented writer and translator with a passion for delivering clear,
+      compelling, and accurate content. I specialize in crafting high-quality blog posts, articles,
+      website content, and translating documents with precision and cultural sensitivity.
+    </p>
+    <p class="bio">
+      With strong language skills in español and a deep understanding of tone and style, I ensure every project is
+      tailored to your needs—whether it’s creative storytelling, professional communication, or accurate translation.
+    </p>
+
+    <div class="project">
+      <p class="project-title">📄 Featured Work: Article in <em>Aramco World</em></p>
+      <p>Contributed a culturally rich and engaging article published in <em>Aramco World</em>, showcasing excellence in research, narrative, and translation.</p>
+    </div>
+  </section>
+  <footer>
+    <p>Contact: dhaneenjavad@example.com</p>
+  </footer>
+</body>
+</html>
+index.html
+
