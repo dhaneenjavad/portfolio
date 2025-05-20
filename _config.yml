@@ -1,0 +1,9 @@
+title: Dhaneen Javad
+description: >- 
+  My personal portfolio website showcasing my projects and skills.
+baseurl: "" # leave this blank if deploying to user.github.io
+url: "https://dhaneenjavad.github.io"
+theme: minima
+
+# Build settings
+markdown: kramdown
